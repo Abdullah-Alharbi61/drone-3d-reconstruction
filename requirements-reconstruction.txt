@@ -1,0 +1,8 @@
+# Install exactly one COLMAP wheel. For CPU-only systems replace the CUDA package
+# with pycolmap==4.2.0; sparse reconstruction works, dense stereo needs CUDA.
+pycolmap-cuda12==4.2.0
+numpy==1.26.4
+plyfile==1.1.2
+Pillow>=9
+matplotlib==3.9.4
+scipy==1.15.3

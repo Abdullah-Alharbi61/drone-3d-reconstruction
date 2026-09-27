@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+output*/
+inspection*/
+*.mp4
+*.MP4
+*.mov
+*.MOV
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.DS_Store
